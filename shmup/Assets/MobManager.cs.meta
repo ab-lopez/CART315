@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e8d3533f1fa5942f1b26fe93680dcd22
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - asteroidToSpawn: {fileID: 5764306315835330676, guid: 8efe31735659d4248a53df2b76c4f20a, type: 3}
+  - enemyToSpawn: {fileID: 7785952032964119926, guid: fc79f4f8c54984fbb917aef6bf60de49, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
