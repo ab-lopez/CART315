@@ -23,7 +23,7 @@
     - Suburban nuclear family simulator management game in which the family is toxic and will literally explode when the player loses (I like puns)
 - Settle on the fact that the last is probably the most realistic for me to be able to make and also probably the least derivative
 
-###Design Values:
+### Design Values:
 - Games where the mechanics hold narrative and thematic importance. I want the mechanics to evoke the feeling of whatever my game ends up becoming
 - Narrative: I like keeping narratives in mind when making any art
 - Diversity: I like making things that do not tone itself down, things that are accommodating for diverse audiences without making it palatable or easily consumable.
