@@ -27,3 +27,16 @@
 - Games where the mechanics hold narrative and thematic importance. I want the mechanics to evoke the feeling of whatever my game ends up becoming
 - Narrative: I like keeping narratives in mind when making any art
 - Diversity: I like making things that do not tone itself down, things that are accommodating for diverse audiences without making it palatable or easily consumable.
+
+## Week 8
+### Prototyping Stage 1:
+- Decided to go with an adapted version of the nuclear family sim management game, was worried that the mechanics I was thinking about was not interesting or fun enough to play + was worried that more than two characters would get overwhelming for me to code for.
+- Abbreviated version: I wanted to do a dating sim/management game, but still maintaining the feeling of toxic, tense relationships that have to continuously be managed/manipulated, with threat of a blow up at all times. Wanted to draw inspiration from TTRPGs like Star Crossed by Alex Roberts and Dread by Epidiah Ravachol, games with a ticking time bomb.
+- For the narrative, decided to go with a dating sim between two representatives of conflicting factions.
+- Thus the questions:
+    - How do I create mechanics that feel thematically/narratively relevant to the story? Mechanics that simultaneously feel like manipulating someone/managing+discovering where you stand in a new relationship/choosing between love + mutual peace + ”winning”?
+    - Is this fun?
+- Ended up with an implementation prototype of the game made with cards – medium fidelity because I spent a lot of time thinking about the mechanics (player/s play one card each turn, choosing between developing love+mutual peace+winning the conflict), but not fully set in stone
+- What I learned:
+    - Might’ve leaned too hard into my TTRPG tendencies. Would it make sense for me to make it a video game? What skills do I want to develop in making this final product.
+    - The game can potentially infinitely loop due to a certain mechanic. Might need to adjust some mechanics before the next playtest.
