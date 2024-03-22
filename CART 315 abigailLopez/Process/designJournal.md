@@ -29,7 +29,7 @@
 - Diversity: I like making things that do not tone itself down, things that are accommodating for diverse audiences without making it palatable or easily consumable.
 
 ## Week 8
-### Prototyping Stage 1:
+### Exploratory Prototype Stage 1:
 - Decided to go with an adapted version of the nuclear family sim management game, was worried that the mechanics I was thinking about was not interesting or fun enough to play + was worried that more than two characters would get overwhelming for me to code for.
 - Abbreviated version: I wanted to do a dating sim/management game, but still maintaining the feeling of toxic, tense relationships that have to continuously be managed/manipulated, with threat of a blow up at all times. Wanted to draw inspiration from TTRPGs like Star Crossed by Alex Roberts and Dread by Epidiah Ravachol, games with a ticking time bomb.
 - For the narrative, decided to go with a dating sim between two representatives of conflicting factions.
@@ -40,3 +40,19 @@
 - What I learned:
     - Might’ve leaned too hard into my TTRPG tendencies. Would it make sense for me to make it a video game? What skills do I want to develop in making this final product.
     - The game can potentially infinitely loop due to a certain mechanic. Might need to adjust some mechanics before the next playtest.
+
+## Week 9
+### Exploratory Prototype Stage 2:
+Exploratory prototyping Stage 2:
+- Narrative/thematic questions: with TTRPGs it allows for players to define the story world’s parameters, video games need to do that work for the player. What story world’s are interesting to explore in the context of queerness, tension, transgressing vs. breaking boundaries, etc.? What story worlds should provide the flavour for this game?
+- Story worlds with defined “political” boundaries (in the sense that there are forces outside of the characters causing the tension) that are interesting to me:
+    - High society, monarchs/political leaders of opposing nations
+    - Spies
+    - I don’t know. It’s hard to come up with story worlds when the only premise you need is from being opposite sides of a singular conflict.
+    - Space rebels against a galactic empire
+    -  Members of rival gangs (bootleggers, fantastical (see: the classic vampires vs. werewolves – where does that archetypal tension even come from?), greasers, etc.)
+    - girl pop stars who hate each other (the other story worlds have their lives/the communities they come from on the line, but is career a fun/interesting thing to be on the line? identity? there’s also a certain degree of performance that I imagine is thematically relevant in the other story worlds but this one especially when the characters ARE performers.)
+- This week’s sketches exploring character possibilities:
+![Untitled_Artwork 2](https://github.com/ab-lopez/CART315/assets/94389163/5a475e1a-70c0-4769-ac27-6f271e398b19)
+![Untitled_Artwork](https://github.com/ab-lopez/CART315/assets/94389163/9c4c1e24-7017-415b-abd4-645957293ee4)
+![Untitled_Artwork 3](https://github.com/ab-lopez/CART315/assets/94389163/552e60e7-844b-41eb-b633-dca0082231eb)
