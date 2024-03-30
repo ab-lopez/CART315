@@ -55,3 +55,17 @@
 ![Untitled_Artwork 2](https://github.com/ab-lopez/CART315/assets/94389163/5a475e1a-70c0-4769-ac27-6f271e398b19)
 ![Untitled_Artwork](https://github.com/ab-lopez/CART315/assets/94389163/9c4c1e24-7017-415b-abd4-645957293ee4)
 ![Untitled_Artwork 3](https://github.com/ab-lopez/CART315/assets/94389163/552e60e7-844b-41eb-b633-dca0082231eb)
+
+## Week 10
+### Iterative Prototype Stage 1:
+- Mostly more visdev exploratory stuff. Having landed on spies as the driving character world, more sketches to develop what these characters look like/feel like/do + who they are.
+- the red and green make me go ohhhhhh what if I fully leant into the wong kar wai in the mood for love colour keys of it all……
+- figuring out a feel for the hypothetical UI and trying to visually translate the card mechanics into game mechanics
+    - lots of stat bars, figuring out like a visual novel-esque expression changing based on the dialogue...
+- caught on the question of: is it too complicated for me with my current capabilities + time left in the semester to code? Am I able to actually do this, or would it be better to try and simplify what I have? Might need to adjust mechanics in order to make it easier/quicker to prototype – can focus on complications from there.
+    - on a tangent that means nothing to no one reading this besides myself: desperately need to call aaron sometime soon to talk this over. his is the only brain i trust when talking about games and their mechanics. hopefully sometime during the next iteration cycle (please please please please please)
+- images from this week:
+![Untitled_Artwork 5](https://github.com/ab-lopez/CART315/assets/94389163/a1428670-9b8b-49fd-9c86-b4e44211259c)
+![IMG_4463](https://github.com/ab-lopez/CART315/assets/94389163/48a34e1e-603c-456e-acec-4fd09774cfdf)
+![IMG_4462](https://github.com/ab-lopez/CART315/assets/94389163/9475dffb-966e-4d33-a56d-59dd7db3497c)
+![IMG_4460](https://github.com/ab-lopez/CART315/assets/94389163/32a70f78-a2cb-4d56-86b9-d60314b2ec45)
