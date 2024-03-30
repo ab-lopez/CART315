@@ -43,7 +43,6 @@
 
 ## Week 9
 ### Exploratory Prototype Stage 2:
-Exploratory prototyping Stage 2:
 - Narrative/thematic questions: with TTRPGs it allows for players to define the story world’s parameters, video games need to do that work for the player. What story world’s are interesting to explore in the context of queerness, tension, transgressing vs. breaking boundaries, etc.? What story worlds should provide the flavour for this game?
 - Story worlds with defined “political” boundaries (in the sense that there are forces outside of the characters causing the tension) that are interesting to me:
     - High society, monarchs/political leaders of opposing nations
