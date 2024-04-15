@@ -69,3 +69,11 @@
 ![IMG_4463](https://github.com/ab-lopez/CART315/assets/94389163/48a34e1e-603c-456e-acec-4fd09774cfdf)
 ![IMG_4462](https://github.com/ab-lopez/CART315/assets/94389163/9475dffb-966e-4d33-a56d-59dd7db3497c)
 ![IMG_4460](https://github.com/ab-lopez/CART315/assets/94389163/32a70f78-a2cb-4d56-86b9-d60314b2ec45)
+
+## Week ???
+### Crisis of Faith
+- Is any of this fun at all.
+- Started coding this week and is this fun at all. all this is is buttons and numbers going up
+- I don't think translating a card game prototype into a video game is a spectacular idea
+- Will probably take a hard shift into straight romance because that is what is currently missing from my prototype. It's a dating game without dating aka a bunch of buttons.
+- Aaron (third party friend, trusted advisor, non-Concordia student, hopefully unbiased) thinks the mechanics are fine but this isn't a game at this point this is baby's-first-point-and-click-and-watch-numbers-happen
