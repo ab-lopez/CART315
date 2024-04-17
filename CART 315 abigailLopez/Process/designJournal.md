@@ -77,3 +77,12 @@
 - I don't think translating a card game prototype into a video game is a spectacular idea
 - Will probably take a hard shift into straight romance because that is what is currently missing from my prototype. It's a dating game without dating aka a bunch of buttons.
 - Aaron (third party friend, trusted advisor, non-Concordia student, hopefully unbiased) thinks the mechanics are fine but this isn't a game at this point this is baby's-first-point-and-click-and-watch-numbers-happen
+
+## Week the Last
+### Deeply Exhausted Visual Rehaul
+- What wasn't fun about what I was working on last week was mechanics. I don't care about mechanics. I mean I do, but if they aren't set in stone anyways, I'd rather refocus my efforts on prototyping things that make games interesting to me: characters, emotions, storytelling.
+- At this point it was going to be too late for me to finish a game entirely, especially when the one I was set on was so deeply uninteresting to me from a coding perspective and needing to be rethought out, but I wanted to spend more time thinking about how I could create attachments between the character and the player
+- The answer? Pretty pictures. Emotions that change based off what option is clicked.
+- I didn't get the work out the nitty gritty details I wanted but I do think I created the emotional attachment because I objectively feel a little better about my barebones prototype knowing that there is clearly some story at work, some emotion that is trying to be evoked.
+
+![Untitled_Artwork 7](https://github.com/ab-lopez/CART315/assets/94389163/3e498f03-4437-4ede-8ef8-91b72fe6b84f)
